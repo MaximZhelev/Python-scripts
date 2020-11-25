@@ -1,7 +1,9 @@
 # Keylogger using pynput
 
 We need to install the pynput module. To install the module type the following into the terminal:
-pip install pynput
+
+pip3 install pynput
 
 Execution:
-python keylogger.py
+
+python3 keylogger.py
